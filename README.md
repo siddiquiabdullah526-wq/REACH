@@ -161,9 +161,9 @@ each one and what it changed in the code in [`docs/TWIST_LOG.md`](docs/TWIST_LOG
 
 ### Team
 
-- **Rafid:** deployment, website, Devpost, deck, demo video, twist log
+- **Rafid:** Deployment, website, Devpost, deck, demo video, twist log
 - **Enzo:** Retell voice agent, backend, SMS fallback
-- **Abdullah:** coordinator dashboard
+- **Abdullah:** Coordinator dashboard (frontend)
 
 We wrote the data contract down first, in `CLAUDE.md`: string IDs, UTC times, E.164 phone numbers, and `null`
 for "unknown" vs `false` for an explicit "no". That way the agent, the backend and the dashboard could be built
