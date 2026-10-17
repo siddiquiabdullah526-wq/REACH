@@ -1,0 +1,23 @@
+[
+  {
+    "id": "contact_a",
+    "display_name": "Test Resident A",
+    "phone": "+15555550101",
+    "preferred_language": "en",
+    "address": "Building B, Unit 2A"
+  },
+  {
+    "id": "contact_b",
+    "display_name": "Test Resident B",
+    "phone": "+15555550102",
+    "preferred_language": "es",
+    "address": "Building B, Unit 3C"
+  },
+  {
+    "id": "contact_c",
+    "display_name": "Test Resident C",
+    "phone": "+15555550103",
+    "preferred_language": "en",
+    "address": "Building B, Unit 5F"
+  }
+]

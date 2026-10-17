@@ -1,0 +1,31 @@
+{
+  "name": "reach",
+  "version": "0.1.0",
+  "private": true,
+  "description": "REACH: multilingual emergency notices that call residents, confirm they understood, and flag who needs help.",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "setup:retell": "node scripts/setup-retell.mjs",
+    "test:logic": "tsx scripts/smoke-test.mts"
+  },
+  "dependencies": {
+    "next": "14.2.35",
+    "pg": "8.23.1",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "retell-client-js-sdk": "3.0.2"
+  },
+  "devDependencies": {
+    "@types/node": "20.14.10",
+    "@types/pg": "8.11.6",
+    "@types/react": "18.3.3",
+    "@types/react-dom": "18.3.0",
+    "typescript": "5.5.4",
+    "tsx": "4.23.15"
+  },
+  "engines": {
+    "node": ">=18.18"
+  }
+}
