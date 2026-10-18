@@ -112,7 +112,7 @@ Retell and Twilio events, so the demo exercises the real logic.
 4. **Open printable list** shows the door-knock list.
 5. **Update this notice** → save as version 2 → send it. The version tabs show who heard v1 and who heard v2.
 6. **Reset demo data** before you demo again.
-
+7. Video Demo Link: https://youtu.be/GQfgHXIopac****
 ### Checks
 
 ```bash
